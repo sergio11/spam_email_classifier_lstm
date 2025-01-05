@@ -4,6 +4,37 @@ This project explores building a classification model to differentiate between *
 
 The focus is on using **Natural Language Processing (NLP)** techniques for text preprocessing and **Deep Learning** to classify emails based on their content. By the end of the project, we aim to have a trained model that can effectively predict whether an email is spam or legitimate.
 
+<p align="center">
+   <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+   <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
+   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
+
+We would like to express our gratitude to **purusinghvi** for creating and sharing the **Spam Email Classification Dataset - Combined Spam Email CSV of 2007 TREC Public Spam Corpus and Enron-Spam Dataset** on Kaggle. This dataset, which contains detailed information about spam and legitimate emails, has been invaluable in building and training the machine learning model for spam detection.
+
+🌟 The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset). Your contribution is greatly appreciated! 🙌
+
+## 🌟 Explore My Other Deep Learning Projects! 🌟  
+
+If you found this project intriguing, I invite you to check out my other cutting-edge deep learning initiatives:  
+
+### 🌍 Advanced Classification of Disaster-Related Tweets Using Deep Learning 🚨  
+How does social media respond to crises in real time? This project focuses on **classifying tweets** to determine if they’re related to disasters or not. Using **deep learning** and enriched datasets, I uncover insights into how people discuss disasters on platforms like Twitter.  
+
+### 📰 Fighting Misinformation: Source-Based Fake News Classification 🕵️‍♂️  
+In a world plagued by fake news, this project tackles the challenge of **authenticity in journalism**. Using **source-based analysis** and **machine learning**, I aim to classify news articles as real or fake, promoting a more informed and responsible media ecosystem.
+
+### 🛡️ IoT Network Malware Classifier with Deep Learning Neural Network Architecture 🚀  
+The Internet of Things (IoT) is transforming the world, but it also introduces new security challenges. This project leverages **Deep Learning Neural Networks** to classify and detect malware in IoT network traffic. By analyzing patterns with AI, it provides **proactive cybersecurity solutions** to safeguard interconnected devices. Explore the intricate process of model design and training with the **Keras framework**, detailed in the accompanying Jupyter Notebook.
+
+Take a dive into these projects to see how **deep learning** is solving real-world problems and shaping the future of AI applications. Let's innovate together! 🚀
+
 ## Key Steps in the Process 🛠️
 
 ### 1. **Data Collection & Preprocessing 📊**
