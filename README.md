@@ -1,7 +1,5 @@
 # Spam Email Classification using LSTM 📧🤖
 
-## Overview 📝
-
 This project explores building a classification model to differentiate between **Spam** and **Legitimate (Ham)** emails using **Long Short-Term Memory (LSTM)** networks. The notebook details the end-to-end process of preparing the data, training the model, and evaluating its performance.
 
 The focus is on using **Natural Language Processing (NLP)** techniques for text preprocessing and **Deep Learning** to classify emails based on their content. By the end of the project, we aim to have a trained model that can effectively predict whether an email is spam or legitimate.
