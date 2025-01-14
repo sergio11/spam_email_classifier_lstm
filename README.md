@@ -36,6 +36,10 @@ Fraudulent transactions can cause immense financial losses. This project leverag
 ### [🛡️ IoT Network Malware Classifier with Deep Learning Neural Network Architecture 🚀](https://github.com/sergio11/iot_network_malware_classifier)  
 The Internet of Things (IoT) is transforming the world, but it also introduces new security challenges. This project leverages **Deep Learning Neural Networks** to classify and detect malware in IoT network traffic. By analyzing patterns with AI, it provides **proactive cybersecurity solutions** to safeguard interconnected devices. Explore the intricate process of model design and training with the **Keras framework**, detailed in the accompanying Jupyter Notebook.
 
+### [🧠🚀 AI-Powered Brain Tumor Classification](https://github.com/sergio11/brain_tumor_classification_cnn)  
+🧠🚀 AI-Powered Brain Tumor Classification: Leveraging Deep Learning with CNNs and Transfer Learning to classify brain tumors from MRI scans, enabling fast and accurate diagnostics. 🌐⚡
+
+
 Take a dive into these projects to see how **deep learning** is solving real-world problems and shaping the future of AI applications. Let's innovate together! 🚀
 
 ## Key Steps in the Process 🛠️
