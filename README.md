@@ -109,11 +109,17 @@ By the end of this project, you will have a functional **Bi-LSTM model** for spa
 - [https://www.kaggle.com/code/hrhuynguyen/detecting-spam-in-emails-with-lstms-99-accuracy](https://www.kaggle.com/code/hrhuynguyen/detecting-spam-in-emails-with-lstms-99-accuracy)
 - [https://www.kaggle.com/code/rem4000/spam-email-xgboost-99](https://www.kaggle.com/code/rem4000/spam-email-xgboost-99)
 
-## **🙏 Acknowledgments**
+## **🙏 Acknowledgments**  
 
-A huge **thank you** to **purusinghvi** for providing the dataset that made this project possible! 🌟 The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset). Your contribution is greatly appreciated! 🙌
+A huge **thank you** to **purusinghvi** for providing the dataset that made this project possible! 🌟 The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset). Your contribution is greatly appreciated! 🙌  
 
-🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.
+🙏 I would like to extend my heartfelt gratitude to [Santiago Hernández, an expert in Cybersecurity and Artificial Intelligence](https://www.udemy.com/user/shramos/). His incredible course on Deep Learning, available at Udemy, was instrumental in shaping the development of this project. The insights and techniques learned from his course were crucial in crafting the neural network architecture used in this classifier.  
+
+📌 Additionally, this project was **inspired by amazing contributions** from the Kaggle community:  
+- **[Detecting Spam in Emails with LSTMs (99% accuracy)](https://www.kaggle.com/code/hrhuynguyen/detecting-spam-in-emails-with-lstms-99-accuracy)** by **hrhuynguyen**, which provided valuable insights into applying LSTMs for spam detection.  
+- **[Spam Email - XGBoost - 99%](https://www.kaggle.com/code/rem4000/spam-email-xgboost-99)** by **rem4000**, which demonstrated the power of ensemble learning methods for this task.  
+
+Your contributions have been incredibly helpful in refining and optimizing this project. **Thank you!** 🙏🚀  
 
 ## Visitors Count
 
