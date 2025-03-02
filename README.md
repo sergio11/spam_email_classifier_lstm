@@ -20,6 +20,10 @@ We would like to express our gratitude to **purusinghvi** for creating and shari
 
 🌟 The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset). Your contribution is greatly appreciated! 🙌
 
+📌 Additionally, this project was **inspired by amazing contributions** from the Kaggle community:  
+- **[Detecting Spam in Emails with LSTMs (99% accuracy)](https://www.kaggle.com/code/hrhuynguyen/detecting-spam-in-emails-with-lstms-99-accuracy)** by **hrhuynguyen**, which provided valuable insights into applying LSTMs for spam detection.  
+- **[Spam Email - XGBoost - 99%](https://www.kaggle.com/code/rem4000/spam-email-xgboost-99)** by **rem4000**, which demonstrated the power of ensemble learning methods for this task.  
+
 ## 🌟 Explore My Other Cutting-Edge AI Projects! 🌟
 
 If you found this project intriguing, I invite you to check out my other AI and machine learning initiatives, where I tackle real-world challenges across various domains:
