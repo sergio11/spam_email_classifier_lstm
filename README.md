@@ -4,6 +4,11 @@ This project explores building a classification model to differentiate between *
 
 The focus is on using **Natural Language Processing (NLP)** techniques for text preprocessing and **Deep Learning** to classify emails based on their content. By the end of the project, we aim to have a trained model that can effectively predict whether an email is spam or legitimate.
 
+## ⚠️ Disclaimer  
+**This project was developed for learning and research purposes only.** It is an educational exercise aimed at exploring **Natural Language Processing (NLP) techniques and Deep Learning models**—specifically **Long Short-Term Memory (LSTM) networks**—for spam email classification.  
+
+The model and findings presented in this project should not be used for real-world email filtering or commercial applications, as they have not been rigorously tested for deployment. Additionally, this project leverages publicly available datasets and references existing research contributions for educational insights.  
+
 <p align="center">
    <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -112,6 +117,11 @@ By the end of this project, you will have a functional **Bi-LSTM model** for spa
 - [NLP with Disaster Tweets Challenge](https://www.kaggle.com/c/nlp-getting-started)
 - [https://www.kaggle.com/code/hrhuynguyen/detecting-spam-in-emails-with-lstms-99-accuracy](https://www.kaggle.com/code/hrhuynguyen/detecting-spam-in-emails-with-lstms-99-accuracy)
 - [https://www.kaggle.com/code/rem4000/spam-email-xgboost-99](https://www.kaggle.com/code/rem4000/spam-email-xgboost-99)
+
+## ⚠️ Disclaimer  
+**This project was developed for learning and research purposes only.** It is an educational exercise aimed at exploring **Natural Language Processing (NLP) techniques and Deep Learning models**—specifically **Long Short-Term Memory (LSTM) networks**—for spam email classification.  
+
+The model and findings presented in this project should not be used for real-world email filtering or commercial applications, as they have not been rigorously tested for deployment. Additionally, this project leverages publicly available datasets and references existing research contributions for educational insights.  
 
 ## **🙏 Acknowledgments**  
 
